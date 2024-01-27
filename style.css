@@ -1,0 +1,60 @@
+.logo img{
+width: 70px;
+height: 70px;
+}
+header{
+    box-shadow: 2px 2px 2px 2px #FD5D5B;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+.links a{
+    text-decoration: none;
+    color: #393A5A;
+    margin: 10px;
+    font-size: 17px;
+}
+footer{
+    box-shadow: 2px 2px 2px 2px #FD5D5B;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+footer p{
+    color: #393A5A;
+    font-size: 17px;
+}
+.logo1 img{
+    width: 60px;
+    height: 60px;
+}
+.ihos{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.ihos img{
+width: 700px;
+height: 500px;
+}
+.text1{
+    font-size: 20px;
+}
+.text2 {
+    font-size: 20px;
+}
+.list1{
+    font-size: 20px;
+}
+.list2{
+    font-size: 20px;
+}
+h1{
+    color: #DD2255;
+}
+
+
+
+

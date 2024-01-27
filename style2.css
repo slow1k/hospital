@@ -1,0 +1,44 @@
+.logo img{
+    width: 70px;
+    height: 70px;
+    }
+    header{
+        box-shadow: 2px 2px 2px 2px #FD5D5B;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        height: 100%;
+        justify-content: start;
+        align-items: start;
+    }
+    .links a{
+        text-decoration: none;
+        color: #393A5A;
+        margin: 10px;
+        font-size: 17px;
+    }
+    footer{
+        box-shadow: 2px 2px 2px 2px #FD5D5B;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        margin-top: 20px;
+    }
+    footer p{
+        color: #393A5A;
+        font-size: 17px;
+    }
+    .logo1 img{
+        width: 60px;
+        height: 60px;
+    }
+
+    
+
+
+
+
+
